@@ -1,6 +1,6 @@
 **Handwritten Digit Recognition**
 
-*Objective*
+**Objective**
 The goal of this project is to recognize handwritten digits (0-9) using a Convolutional Neural Network (CNN).
 
 Libraries Required
