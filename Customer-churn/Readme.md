@@ -11,9 +11,9 @@ The aim of this project is to preprocess customer churn data for a telecom compa
 
 **Steps**
 
-**Data Loading:** Load the dataset into a Pandas DataFrame.
-**Data Exploration:** Use .info() and .head() to understand the dataset.
-**Handle Missing Values:** Remove or impute missing values.
-**Data Transformation:** Convert categorical values to numerical values.
-**Data Normalization:** Normalize the MonthlyCharges feature.
-**Data Visualization:** Plot histograms to understand the distribution of MonthlyCharges.
+- **Data Loading:** Load the dataset into a Pandas DataFrame.
+- **Data Exploration:** Use .info() and .head() to understand the dataset.
+- **Handle Missing Values:** Remove or impute missing values.
+- **Data Transformation:** Convert categorical values to numerical values.
+- **Data Normalization:** Normalize the MonthlyCharges feature.
+- **Data Visualization:** Plot histograms to understand the distribution of MonthlyCharges.
