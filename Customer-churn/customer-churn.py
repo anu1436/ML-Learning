@@ -19,9 +19,6 @@ df['Churn'] = df['Churn'].map({'Yes': 1, 'No': 0})
 # Data Normalization
 df['MonthlyCharges'] = (df['MonthlyCharges'] - df['MonthlyCharges'].min()) / (df['MonthlyCharges'].max() - df['MonthlyCharges'].min())
 
-# Feature Engineering
-df['TotalCharges'] = df['MonthlyCharges'] * df['tenure']
-
 # Data Visualization
 plt.hist(df['MonthlyCharges'])
 plt.show()
