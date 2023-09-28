@@ -1,0 +1,11 @@
+CustomerID,MonthlyCharges,Contract,Churn
+1,29.85,Month-to-month,Yes
+2,56.95,One year,No
+3,53.85,Month-to-month,Yes
+4,42.30,One year,No
+5,70.70,Month-to-month,Yes
+6,99.65,One year,No
+7,89.10,Month-to-month,No
+8,29.75,Month-to-month,Yes
+9,104.80,Two year,No
+10,56.15,Month-to-month,Yes
